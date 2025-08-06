@@ -6,6 +6,7 @@
 
 
 ![image](https://github.com/adonea/OzyByte.github.io/blob/main/Picture%201.png)
+![image](https://github.com/adonea/OzyByte.github.io/blob/main/Picture%202.png)
 ## Sample Section
 
 ## This'll be a _Helpful_ Section About the Greek Letter Θ!

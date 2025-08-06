@@ -3,7 +3,8 @@
 
 # OzyByte :  High-Altitude Solar Imaging Using a Monash Balloon-Based Telescope
 
-<img width="468" height="44" alt="image" src="https://github.com/user-attachments/assets/d64760a2-23a2-4930-a42c-12ed34abc151" />
+
+![image](https://github.com/adonea/OzyByte.github.io/Picture 2.png")
 
 ## Sample Section
 

@@ -4,8 +4,8 @@
 # OzyByte :  High-Altitude Solar Imaging Using a Monash Balloon-Based Telescope
 
 
-![image](https://github.com/adonea/OzyByte.github.io/Picture 2.png")
 
+![image](https://github.com/adonea/OzyByte.github.io/blob/main/Picture%201.png)
 ## Sample Section
 
 ## This'll be a _Helpful_ Section About the Greek Letter Θ!

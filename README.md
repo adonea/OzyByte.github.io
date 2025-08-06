@@ -1,5 +1,13 @@
 # OzyByte.github.io
 
+
+# OzyByte :  High-Altitude Solar Imaging Using a Monash Balloon-Based Telescope<img width="468" height="44" alt="image" src="https://github.com/user-attachments/assets/d64760a2-23a2-4930-a42c-12ed34abc151" />
+
+
+## Sample Section
+
+## This'll be a _Helpful_ Section About the Greek Letter Θ!
+
 Project a i m s:
 
 The OzyByte I (Monash University, Flinders University and Sheffield University) project aimed to create a solar telescope which can be lifted by balloon to an altitude of ~ 40 km and operate autonomously to take high quality pictures of the Sun in the Hydrogen-Alpha spectral line ( 656.28 nm ). This is a Monash University in collaboration with  Sheffield University extracurricular student led project. The students will  design and create their payload, and the project will seek approval to be launched by  NASA's High Altitude Student Platform (Fort Sumner, New Mexico, USA) or similar.
